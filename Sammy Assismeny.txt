@@ -1,0 +1,4 @@
+1 make a home page 
+for Sammy introduction biography 
+add a photo 
+add a button which will take to different page 
